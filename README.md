@@ -1,2 +1,1 @@
-# machine-learning
-Machine learning experimentation
+# Experimentations in machine learning
